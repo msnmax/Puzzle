@@ -1,2 +1,2 @@
 # Puzzle
-CSS+HTML+js
+CSS+js
